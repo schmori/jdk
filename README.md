@@ -1,12 +1,11 @@
-# Welcome to the JDK!
+# Welcome to my master thesis project
 
-For build instructions please see the
-[online documentation](https://openjdk.org/groups/build/doc/building.html),
-or either of these files:
+Within this project, I wrote a JDK extension for including FIDO2 in TLS. 
 
-- [doc/building.html](doc/building.html) (html version)
-- [doc/building.md](doc/building.md) (markdown version)
+## Summary of my thesis
 
-See <https://openjdk.org/> for more information about the OpenJDK
-Community and the JDK and see <https://bugs.openjdk.org> for JDK issue
-tracking.
+## Description
+
+## Licence 
+
+Thank you for reading and enjoy using this extension.
